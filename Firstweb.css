@@ -1,0 +1,25 @@
+body {
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzANZvA8-nZd8tjl0uHvdNE30tjqvqEQyyg&usqp=CAU");
+    text-align:center;
+}
+ h1{
+     text-align:center;
+     color:Black;
+     font-family:Fantasy; 
+     font-style:bold;
+     margin-top:30px;
+     font-size:35px;
+     border-style:solid;
+     background-color:lightblue;
+     
+ }
+p{
+    color:black;
+    font-family:"handlee" , cursive;
+    font-size:30px;
+    text-align:center;
+      margin-top:30px;
+    line-height:35px;
+    border-style:solid;
+    background-color:lightpink;
+}
